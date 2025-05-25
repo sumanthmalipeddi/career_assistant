@@ -1,0 +1,16 @@
+tensorflow
+pandas
+numpy
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+ipykernel
+keras
+scikeras
+nltk
+pdfplumber
+dotenv
+streamlit_lottie
+fpdf
+xgboost
